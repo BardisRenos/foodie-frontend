@@ -1,0 +1,33 @@
+{
+  "login": {
+    "welcome": "Welcome back",
+    "subtitle": "Sign in to continue to your marketplace",
+    "consumer": "Consumer",
+    "farmer": "Farmer",
+    "farmer_notice": "Signing in as a farmer — manage your products and orders",
+    "email": "Email address",
+    "email_placeholder": "you@example.com",
+    "email_error": "Please enter a valid email",
+    "password": "Password",
+    "password_placeholder": "Your password",
+    "password_error": "Password is required",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "submit": "Sign in",
+    "signing_in": "Signing in...",
+    "no_account": "Create a free account",
+    "no_account_suffix": "— it takes 2 minutes",
+    "invalid_credentials": "Invalid email or password."
+  },
+  "brand": {
+    "name": "Foodie",
+    "tagline": "Farm to table",
+    "hero_line1": "Fresh from the",
+    "hero_line2": "farmer's hands",
+    "hero_line3": "to yours",
+    "hero_desc": "Connect directly with local farmers. Buy seasonal, organic produce without the middleman.",
+    "stat_farmers": "Local farmers",
+    "stat_consumers": "Happy consumers",
+    "stat_organic": "Organic produce"
+  }
+}
